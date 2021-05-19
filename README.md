@@ -28,6 +28,13 @@ ____________________________________________________
 -function Add class 'active' to section when near top of viewport.</br>
 	function activeState() {...}</br>
 ______________________________________________________
+<h2>The sources I used</h2>
+</br>
+https://www.w3schools.com/
+</br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+</br>
+
 
 <h3>this Project JS FILE modified by:</h3>
 </br>Mohamed fawaz</br>
